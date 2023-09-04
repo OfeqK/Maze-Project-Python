@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 **Usage**:
 After installing the required libraries, you can run the project by executing the pygameRTSolver.py Python script.
-Follow the on-screen instructions to interact with the maze generation and solving process.
+Wait for the maze to successfully generate and then follow the console instructions to start the solving process.
 
 **Author**:
 This project was created by Ofeq Koren from Israel.
