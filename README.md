@@ -15,7 +15,8 @@ pip install -r requirements.txt
 **Usage**:
 After installing the required libraries, you can run the project by executing the main Python script.
 Follow the on-screen instructions to interact with the maze generation and solving process.
-Author
+
+**Author**:
 This project was created by Ofeq Koren from Israel.
 
 **Maze Generation**:
