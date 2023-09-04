@@ -22,6 +22,7 @@ This project was created by Ofeq Koren from Israel.
 **Maze Generation**:
 The maze in this project is generated using an iterative implementation of the Backtracking (Depth-First Search) algorithm. Here's a brief overview of the maze generation process:
 
+    Create a grid that consists of cells. The grid is represented as an array and its size is rows * cols. The index of each cell on the grid is: i + j * rows, where i = x and j = y.
     Choose the initial cell, mark it as visited, and push it to the stack.
     While the stack is not empty:
       Pop a cell from the stack and make it the current cell.
