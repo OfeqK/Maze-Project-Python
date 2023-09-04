@@ -13,7 +13,7 @@ Install the required libraries from the requirements.txt file using pip:
 pip install -r requirements.txt
 
 **Usage**:
-After installing the required libraries, you can run the project by executing the main Python script.
+After installing the required libraries, you can run the project by executing the pygameRTSolver.py Python script.
 Follow the on-screen instructions to interact with the maze generation and solving process.
 
 **Author**:
